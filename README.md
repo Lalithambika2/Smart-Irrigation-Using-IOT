@@ -66,4 +66,5 @@
       Advanced analytics using machine learning for crop-specific irrigation.
       Support for multiple crop zones with independent irrigation controls.
 # Contributions
-      Contributions to this project are welcome! Feel free to fork the repository and submit pull requests.
+      Contributions to this project are welcome! Feel free to fork the repository and submit pull requests.![Screenshot 2025-01-07 190527](https://github.com/user-attachments/assets/a30a5ece-0949-4509-a3cf-cbc6dd10c5ab)
+
